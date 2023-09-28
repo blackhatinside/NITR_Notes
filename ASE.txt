@@ -1,0 +1,41 @@
+Key Phrases: Define Deliverables, Define Milestones, Cost/Effort Estimation, Schedule Reviews (Verification and Validation), 
+
+Program - Smaller size, No UI, Ad Hoc Development
+Software - Larger size, UI, Systematic Development
+
+Failures
+	fail to meet user requirements
+	poor quality, always crash
+	expensive
+	schedule slippage
+	high resource usage
+
+Ad-hoc Development 
+	made when situation demands (not preplanned)
+
+Benefits 
+	Tangible (measurable)
+	Intangible (not measurable)
+
+Software Life Cycle
+	Problem Definition
+		brief statement
+		project scope: rough cost estimation
+		identify factors creating problem
+	Feasibility Study
+		is problem solvable
+		is problem worth solving
+		consider alternatives, their costs and benefits
+		economical, technical, operational
+	Requirement Analysis and Design (System Design, Detailed Design)
+	Coding
+	Testing
+	Maintenance
+
+Life cycle model
+	forms a common understanding among software devs (must sync)
+	help identify faults
+	processes tailored for specific projects
+	manager can easily guess the progress level
+
+P = F/(1+L)^n
